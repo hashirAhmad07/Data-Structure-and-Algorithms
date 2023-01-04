@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1639399068 source:c:\users\hashir ahmad\onedrive\desktop\data structure course\singly linked list\linkedlist.cpp
+	<iostream>
+	"LinkedList.h"
+	"Node.h"
+
+1638629198 c:\users\hashir ahmad\onedrive\desktop\data structure course\singly linked list\linkedlist.h
+	"Node.h"
+
+1638186374 c:\users\hashir ahmad\onedrive\desktop\data structure course\singly linked list\node.h
+
+1638974933 source:c:\users\hashir ahmad\onedrive\desktop\data structure course\singly linked list\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Node.h"
+
+1638186452 source:c:\users\hashir ahmad\onedrive\desktop\data structure course\singly linked list\node.cpp
+	<iostream>
+	"LinkedList.h"
+	"Node.h"
+
+1638186452 source:d:\data structure course\linked list\singly linked list\node.cpp
+	<iostream>
+	"LinkedList.h"
+	"Node.h"
+
+1672863924 d:\data structure course\linked list\singly linked list\linkedlist.h
+	"Node.h"
+
+1638186374 d:\data structure course\linked list\singly linked list\node.h
+
+1672864566 source:d:\data structure course\linked list\singly linked list\linkedlist.cpp
+	<iostream>
+	"LinkedList.h"
+	"Node.h"
+
+1672864696 source:d:\data structure course\linked list\singly linked list\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Node.h"
+
